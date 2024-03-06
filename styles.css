@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+
+
+#card{
+	text-align: center;
+	background-color: rgb(250, 183, 183, 0.4);
+	width: 350px;
+	height: 450px;
+	border-radius: 45px 0 45px 0;
+	padding: 25px;
+	box-shadow: rgb(153, 255, 204);
+}
+
+img{
+	width:325px;
+	box-shadow: rgb(153, 255, 204);
+}
+
+#price{
+	font-size: 20px
+}
+
+h1{
+	color: red;
+}
+
+button{
+	border-radius: 5px;
+background-color: rgb(204, 204, 204);
+	border: none;
+	}
+
+span{
+	color: brown;
+}
